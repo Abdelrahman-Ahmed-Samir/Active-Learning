@@ -14,7 +14,7 @@ design novel algorithms with ease.
 -The project is large because I used the same 2 datasets in 2 situations ( Before applying Active Learning (using normal passive learning) , After applying Active Learning).
 --> I did that to compare the results in the 2 situations.
 
-- There is also another thing , we talked that we gonna use Deep Learning , so we were thinking to use Vgg-16 but due to it's computational power we used the same architecture of Vgg-16 but we removed some layers to speed up the process.
+- There is also another thing , we talked that we gonna use Deep Learning , so we were thinking to use Vgg-16 but due to it's computational power we used the same architecture of Vgg-16 but we removed some layers to speed up the process. there is an image attached showing the architecture I used.
 
 Applied AL strategies:
 - Random Sampling
